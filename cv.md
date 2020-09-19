@@ -28,4 +28,4 @@ I don't have a serious work experience in frontend development.
 I'm self-taught person with no special education. And well.. I'm a student in RS School:))
 
 #### English
-My English level is about B1 (Listening and reading much better than speaking and writing)
+My English level is about B1 (Listening and Reading much better than Speaking and Writing)
