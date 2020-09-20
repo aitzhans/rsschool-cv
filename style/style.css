@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;    
+}
+
+body {
+    background-color: #c0d8e6;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap');
+
+.wrapper {
+    width: 800px;
+    min-height: 100vh;
+    padding: 0 50px;
+    margin: 0 auto;
+    background: white;
+}
+
+.photo {
+    /*border: 1px red solid;*/
+    width: 160px;
+    float: left;
+    padding-top: 12px;
+}
+
+.page-header {
+    padding-top: 35px;
+    padding-left: 200px;
+
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #004bb1;
+}
+
+.page-section {
+    padding-top: 14px;
+    padding-left: 200px;
+    padding-bottom: 12px;
+
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #537891;
+
+}
+
+.subheader {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #004bb1;
+
+    padding-bottom: 4px;
+}
+
+.list {
+
+}
+
+.list-item {
+    padding-bottom: 2px;
+    list-style-type: none;
+}
+
+.list-item--skills {
+    margin-left: 96px;
+    position: relative;
+}
+
+.list-item--skills::before {
+    content: "";
+    position: absolute;
+    left: -96px;
+    top: 2px;
+    /*background: red;*/
+    width: 84px;
+    height: 20px;
+    background-size: cover;
+}
+
+.list-item--html::before {
+    background-image: url("../images/html_graph.svg");
+    /*background-color: red;*/
+}
+.list-item--css::before {
+    background-image: url("../images/css_graph.svg");
+    /*background-color: red;*/
+}
+.list-item--js::before {
+    background-image: url("../images/js_graph.svg");
+    /*background-color: red;*/
+}
+
+
+.list-link {
+    color: #004bb1;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.list-link:hover {
+    color: #e62d80;
+}
+
+.code-example {
+   background-color: #f7f9f8;
+   padding: 10px;
+}
