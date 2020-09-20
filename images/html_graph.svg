@@ -3,31 +3,38 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 84 20" style="enable-background:new 0 0 84 20;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#004BB1;}
+	.st0{fill:#8ABEE0;}
 	.st1{fill:#FFFFFF;}
 </style>
 <g>
-	<rect x="0.5" y="3.5" class="st0" width="13" height="13"/>
-	<path class="st0" d="M13,4v12H1V4H13 M14,3H0v14h14V3L14,3z"/>
+	<circle class="st0" cx="7" cy="10" r="6.5"/>
+	<path class="st0" d="M7,4c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C1,6.7,3.7,4,7,4 M7,3L7,3c-3.9,0-7,3.1-7,7v0
+		c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0C14,6.1,10.9,3,7,3L7,3z"/>
 </g>
 <g>
-	<rect x="18" y="3.5" class="st0" width="13" height="13"/>
-	<path class="st0" d="M30.5,4v12h-12V4H30.5 M31.5,3h-14v14h14V3L31.5,3z"/>
-</g>
-<g>
-	<rect x="35.5" y="3.5" class="st0" width="13" height="13"/>
+	<circle class="st0" cx="24.5" cy="10" r="6.5"/>
 	<g>
-		<path class="st0" d="M48,4v12H36V4H48 M49,3H35v14h14V3L49,3z"/>
+		<path class="st0" d="M24.5,4c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C18.5,6.7,21.2,4,24.5,4 M24.5,3L24.5,3
+			c-3.9,0-7,3.1-7,7v0c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0C31.5,6.1,28.4,3,24.5,3L24.5,3z"/>
 	</g>
 </g>
 <g>
-	<rect x="53" y="3.5" class="st0" width="13" height="13"/>
+	<circle class="st0" cx="42" cy="10" r="6.5"/>
 	<g>
-		<path class="st0" d="M65.5,4v12h-12V4H65.5 M66.5,3h-14v14h14V3L66.5,3z"/>
+		<path class="st0" d="M42,4c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C36,6.7,38.7,4,42,4 M42,3L42,3c-3.9,0-7,3.1-7,7v0
+			c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0C49,6.1,45.9,3,42,3L42,3z"/>
 	</g>
 </g>
 <g>
-	<rect x="70.5" y="3.5" class="st1" width="13" height="13"/>
-	<path class="st0" d="M83,4v12H71V4H83 M84,3H70v14h14V3L84,3z"/>
+	<circle class="st0" cx="59.5" cy="10" r="6.5"/>
+	<g>
+		<path class="st0" d="M59.5,4c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C53.5,6.7,56.2,4,59.5,4 M59.5,3L59.5,3
+			c-3.9,0-7,3.1-7,7v0c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0C66.5,6.1,63.4,3,59.5,3L59.5,3z"/>
+	</g>
+</g>
+<g>
+	<circle class="st1" cx="77" cy="10" r="6.5"/>
+	<path class="st0" d="M77,4c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6C71,6.7,73.7,4,77,4 M77,3L77,3c-3.9,0-7,3.1-7,7v0
+		c0,3.9,3.1,7,7,7h0c3.9,0,7-3.1,7-7v0C84,6.1,80.9,3,77,3L77,3z"/>
 </g>
 </svg>
