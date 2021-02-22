@@ -46,6 +46,10 @@ body {
 
 }
 
+.page-section--last {
+    padding-bottom: 40px;
+}
+
 .subheader {
     padding-bottom: 4px;
 
@@ -70,6 +74,21 @@ body {
     position: relative;
 }
 
+.list-item--prj {
+    margin-left: 16px;
+    position: relative;
+}
+
+.list-item--prj::before {
+    content: "";
+    position: absolute;
+    left: -16px;
+    top: 8px;
+    width: 8px;
+    height: 8px;
+    background-color: #8abee0;
+}
+
 .list-item--skills::before {
     content: "";
     position: absolute;
@@ -83,11 +102,15 @@ body {
 .list-item--html::before {
     background-image: url("../images/html_graph.svg");
 }
-.list-item--css::before {
-    background-image: url("../images/css_graph.svg");
+.list-item--react::before {
+    background-image: url("../images/react_graph.svg");
 }
 .list-item--js::before {
     background-image: url("../images/js_graph.svg");
+}
+
+.list-item--ts::before {
+    background-image: url("../images/ts_graph.svg");
 }
 
 

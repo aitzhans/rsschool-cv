@@ -4,9 +4,6 @@
 - Location: Almaty, Kazakhstan
 - Telegram: [@Ais_s](https://t.me/ais_s)
 
-#### Summary:
-I work as a graphic designer with a focus on a webdesign for quite some time. Unfortunately in some cases when I open websites made by my layouts.. They are not what I meant at all. So I'm interested in what's going on under the hood of all that things and want to make websites looking and acting as I want them to do. 
-
 #### Skills:
 - HTML (4/5)
 - CSS (3/5)
